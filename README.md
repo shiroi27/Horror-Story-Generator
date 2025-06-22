@@ -1,4 +1,5 @@
 ## 📸 Preview  
+
 ![Horror Story App Screenshot](https://github.com/user-attachments/assets/3e96177c-93a4-469d-a01b-8a0787253803)
 
 
@@ -54,17 +55,18 @@ python short_horror.py
 	•	Styling tkinter GUI for dark theme aesthetics
 	•	Adjusting layout with .place() and custom spacing
 
-⸻
+---
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
-I’m sharing every step of my coding journey!
-	•	🐍 Instagram: @shiroi_27
-	•	💼 GitHub: shiroi27
-	•	🐦 Twitter: @shiroi_27
-	•	💼 LinkedIn
+I’m building a new Python project daily as part of #100DaysOfCode!
+Follow along and say hi:
 
-⸻
+* 🐍 [Instagram: @*shiroi\_27*](https://instagram.com/_shiroi_27_)
+* 💼 [GitHub: shiroi27](https://github.com/shiroi27)
+* 🔦 [Twitter: @*shiroi\_27*](https://twitter.com/_shiroi_27_)
+
+---
 
 📜 License
 
