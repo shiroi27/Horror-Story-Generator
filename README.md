@@ -37,14 +37,17 @@ From creepy mirrors to haunted calls — every click is a new nightmare 😈
 
 1. **Clone this repository** or download the ZIP
    
-2. Install dependencies:
+2. Install dependencies :
+   
 ```bash
 pip install gtts
 ```
-3. Run the app:
+3. Run the app :
+   
 ```bash
 python short_horror.py
 ```
+
 ✅ Works on Mac (uses afplay). For Windows, replace os.system("afplay ...") with os.system("start ...").
 
 ⸻
