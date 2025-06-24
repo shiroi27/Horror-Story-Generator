@@ -62,12 +62,11 @@ python short_horror.py
 
 ## 🤝 Connect With Me
 
-I’m building a new Python project daily as part of #100DaysOfCode!
-Follow along and say hi:
-
-* 🐍 [Instagram: @*shiroi\_27*](https://instagram.com/_shiroi_27_)
-* 💼 [GitHub: shiroi27](https://github.com/shiroi27)
-* 🔦 [Twitter: @*shiroi\_27*](https://twitter.com/_shiroi_27_)
+I’m sharing my #100DaysOfCode journey with real-world Python projects.  
+Let’s connect and grow together! 🌱✨
+            - 📸 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
+            - 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
+            - 💼 [LinkedIn: @shiroi27](https://linkedin.com/in/shiroi27)
 
 ---
 
